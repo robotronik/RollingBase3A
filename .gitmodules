@@ -1,0 +1,9 @@
+[submodule "Mechanic"]
+	path = Mechanic
+	url = https://github.com/robotronik/RollingBase3A-Mechanic.git
+[submodule "Electronic"]
+	path = Electronic
+	url = https://github.com/robotronik/RollingBase3A-Electronic.git
+[submodule "Developpement"]
+	path = Developpement
+	url = https://github.com/robotronik/RollingBase3A-Developpement.git

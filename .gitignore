@@ -1,3 +1,11 @@
+# This is for cubeMx's files
+
+**/build/**
+*.bak
+*.log
+
+# This is for C files
+
 # Prerequisites
 *.d
 
